@@ -1,0 +1,19 @@
+{
+  "name": "WebGPURayTracing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@types/node": "^24.0.1",
+    "@webgpu/types": "^0.1.60",
+    "vite": "^5.4.2",
+    "vite-plugin-mkcert": "^1.17.8",
+    "gl-matrix": "^3.4.3",
+    "@types/jquery": "^3.5.32",
+    "jquery": "^3.7.1"
+  }
+}
